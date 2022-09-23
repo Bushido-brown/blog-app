@@ -1,56 +1,70 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Blog_App
 
-> Description the project.
+> In this project we are creating a blog app 
 
 
-## Built With
+### Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- Ruby on Rails
+- Rspec
+- SQL 
+- Postgresql
 
-## Live Demo (if available)
 
-[Live Demo Link](https://livedemo.com)
+## Live Demo
 
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
+To get a local copy, follow these simple steps.
 
 ### Prerequisites
 
+Web browser installed
+
 ### Setup
 
-### Install
+Cloning a repository
 
-### Usage
+- On GitHub.com, navigate to the main page of the repository;
 
-### Run tests
+- Above the list of files, click "Code" button;
 
-### Deployment
+- Copy the URL to clone the repository. 
+
+  - To clone the repository using HTTPS : `https://github.com/chumaachike/Blog_App.git`
+
+  - To clone the repository using an SSH key, including a certificate issued by your organization's SSH certificate authority : `git@github.com:ElsonOtake/Blog_App.git`
+
+  - To clone a repository using GitHub CLI : `gh repo clone chumaachike/Blog_App`
+
+- Open Terminal;
+
+- Change the current working directory to the location where you want the cloned directory;
+
+- Type `git clone`, and then paste the URL you copied earlier.
+
+### Rspec Tests
+
+To run the tests:
+
+- Open your terminal;
+
+- Go to your application folder;
+
+- run `rspec spec/requests`.
 
 
+## Author
 
-## Authors
+👤 **Tochukwu Orizu**
 
-👤 **Author1**
+- GitHub: [@Bushido-brown](https://github.com/Bushido-brown)
+- Twitter: [@tuzyorizu](https://twitter.com/tuzyorizu)
+- LinkedIn: [tochukwu orizu](https://www.linkedin.com/in/tochukwuorizu/)
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 ## 🤝 Contributing
 
@@ -58,18 +72,19 @@ Contributions, issues, and feature requests are welcome!
 
 Feel free to check the [issues page](../../issues/).
 
+
 ## Show your support
 
 Give a ⭐️ if you like this project!
 
+
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- Microverse
+- W3Schools
+- Stack Overflow
+
 
 ## 📝 License
 
-This project is [MIT](./LICENSE) licensed.
-
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
+This project is [MIT](./MIT.md) licensed.
