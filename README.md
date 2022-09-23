@@ -2,27 +2,22 @@
 
 # Blog_App
 
-> In this project we are creating a blog app 
-
+> In this project we are creating a blog app
 
 ### Built With
 
 - Ruby on Rails
 - Rspec
-- SQL 
+- SQL
 - Postgresql
 
-
 ## Live Demo
-
 
 ## Getting Started
 
 To get a local copy, follow these simple steps.
 
 ### Prerequisites
-
-Web browser installed
 
 ### Setup
 
@@ -32,7 +27,7 @@ Cloning a repository
 
 - Above the list of files, click "Code" button;
 
-- Copy the URL to clone the repository. 
+- Copy the URL to clone the repository.
 
   - To clone the repository using HTTPS : `https://github.com/chumaachike/Blog_App.git`
 
@@ -56,7 +51,6 @@ To run the tests:
 
 - run `rspec spec/requests`.
 
-
 ## Author
 
 👤 **Tochukwu Orizu**
@@ -65,25 +59,21 @@ To run the tests:
 - Twitter: [@tuzyorizu](https://twitter.com/tuzyorizu)
 - LinkedIn: [tochukwu orizu](https://www.linkedin.com/in/tochukwuorizu/)
 
-
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
 Feel free to check the [issues page](../../issues/).
 
-
 ## Show your support
 
 Give a ⭐️ if you like this project!
-
 
 ## Acknowledgments
 
 - Microverse
 - W3Schools
 - Stack Overflow
-
 
 ## 📝 License
 
